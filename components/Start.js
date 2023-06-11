@@ -23,7 +23,7 @@ const Start = ({ navigation }) => {
 
     return (
         <ImageBackground
-            source={require("../assets/Background-Image.png")}
+            source={require("../assets/Background-Image.jpg")}
             resizeMode="cover"
             style={styles.image}
         >
