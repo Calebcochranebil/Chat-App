@@ -19,3 +19,25 @@ The objective of this project is to develop a mobile chat application using Reac
 -   As a user, I want to share my location with my friends to show them where I am.
 -   As a user, I want to be able to read my messages offline so I can reread conversations at any time.
 -   As a user with a visual impairment, I want to use a chat app that is compatible with a screen reader so that I can engage with a chat interface.
+
+## Getting Started
+
+### Tech Stack:
+
+-   React Native
+-   React Native Gifted Chat
+-   Expo
+-   Firebase and Firestore
+
+### Development environment:
+
+-   npm install expo-cli -g to install the Expo CLI.
+-   expo login.
+-   npm install.
+-   install the Expo Go App on your mobile device.
+-   create your test environment with Android Emulator or iOS Simulator.
+-   start project with npm expo start or expo start in the terminal.
+
+### Dependencies
+
+-   see package.json file.
